@@ -1,2 +1,4 @@
-print("5")
-print(5)
+n = 5
+m = "Five"
+print(type(n))
+print(type(m))
